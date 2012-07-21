@@ -1,3 +1,7 @@
+body {
+    background:#303030;
+}
+
 #canvasBg {
     display:block;
     background:#ffffff;
